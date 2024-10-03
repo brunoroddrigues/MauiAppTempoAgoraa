@@ -8,14 +8,14 @@ namespace MauiAppTempoAgoraa.Models
 {
     public class Tempo
     {
-        public string? title { get; set; }
-        public string? temperature { get; set; }
-        public string? wind { get; set; }
-        public string? humidity { get; set; } 
-        public string? visibility { get; set; }
-        public string? sunrise { get; set; }
-        public string? sunset { get; set; }
-        public string? weather { get; set; }
-        public string? weatherDescription { get; set; }
+        public string? Title { get; set; }
+        public string? Temperature { get; set; }
+        public string? Wind { get; set; }
+        public string? Humidity { get; set; } 
+        public string? Visibility { get; set; }
+        public string? Sunrise { get; set; }
+        public string? Sunset { get; set; }
+        public string? Weather { get; set; }
+        public string? WeatherDescription { get; set; }
     } // fim da classe 
 }
