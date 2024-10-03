@@ -1,14 +1,6 @@
 ﻿using MauiAppTempoAgoraa.Models;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Runtime.InteropServices.JavaScript;
-using System.Text;
-using System.Threading.Tasks;
-using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using Foundation;
+using System.Diagnostics;
 
 namespace MauiAppTempoAgoraa.Service
 {
